@@ -1,6 +1,6 @@
 name: welcome
 on:
   pull_request:
-    types: [opened]
+    types: Open
 permissions:
   pull-requests: write
